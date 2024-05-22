@@ -3,9 +3,37 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=PracticName&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🌱 I’m currently learning Flask and FastAPI  
-- 📫 How to reach me alexey.i.ageev@googlemail.com
+
+## :man_technologist: I’m currently learning:
+<!---
+<div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" **alt="FastAPI" width="80" height="80"/>
+</div>
+--->
+<div id="tcnlg">
+  <a href="https://flask.palletsprojects.com/en/3.0.x/">
+    <img src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/fastapi-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI"/>
+  </a>
+</div>
+
+## :mailbox: How to reach me:
+<div id="badges">
+  <a href="https://t.me/A_VeegA">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="mailto:alexey.i.ageev@googlemail.com">
+    <img src="https://img.shields.io/badge/gmail-8A2BE2?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+</div>
+
 ## :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
